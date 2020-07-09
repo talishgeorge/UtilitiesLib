@@ -1,3 +1,3 @@
 # UtilitiesLib
 
-A description of this package.
+A Package for common utilities methods 
