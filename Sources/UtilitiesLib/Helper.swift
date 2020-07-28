@@ -5,11 +5,9 @@
 
 import Foundation
 
-
-
-import Foundation
-
 public struct Helper {
+    
+    public init() {}
     
     /// Delay function
     /// - Parameters:
